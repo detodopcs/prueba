@@ -2,7 +2,7 @@
 <template>
   
   <div class="navbar">
-      probando
+      probando la segunda temporada
   </div>
 
 
@@ -17,7 +17,7 @@ export default {
 <style>
 
 body{
-    margin:0;
+    margin:10;
 }
 
 .navbar {
